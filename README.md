@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madhusudhan7492
+- 👋 Hi, I’m Madhu Sudhan
 - 👀 I’m interested in learning new technologies and automating things
 - 🌱 I’m currently learning Kubernetes
 - 📫 Reach out to me @ https://in.linkedin.com/in/madhu-sudhan-20239916a
