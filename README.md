@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=madhusudhan7492&show_icons=true&theme=dark)
+![Madhu's github stats](https://github-readme-stats.vercel.app/api?username=madhusudhan7492&show_icons=true&theme=dark)
 
 ⭐️ From [MadhuSudhan](https://github.com/madhusudhan7492)
